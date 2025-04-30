@@ -1,1 +1,1 @@
-# Carotatore_Embedded_Canopen
+# Embedded_trazione_sterzo_STM32
