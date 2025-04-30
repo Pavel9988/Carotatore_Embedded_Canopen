@@ -1,0 +1,1 @@
+# Carotatore_Embedded_Canopen
