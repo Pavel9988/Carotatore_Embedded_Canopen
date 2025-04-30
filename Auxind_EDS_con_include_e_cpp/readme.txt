@@ -1,0 +1,1 @@
+escludete questa cartella dal progetto stmcubeide

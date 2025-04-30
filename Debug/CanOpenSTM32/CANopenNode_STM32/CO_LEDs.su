@@ -1,0 +1,2 @@
+../CanOpenSTM32/CANopenNode_STM32/CO_LEDs.c:26:1:CO_LEDs_init	24	static
+../CanOpenSTM32/CANopenNode_STM32/CO_LEDs.c:41:1:CO_LEDs_process	40	static
